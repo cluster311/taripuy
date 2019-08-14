@@ -1,2 +1,3 @@
-# taripuy
-taripuy, del quechua: recuperar; recobrar
+# Taripuy
+
+_Taripuy_: del quechua: recuperar; recobrar
