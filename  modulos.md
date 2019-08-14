@@ -6,13 +6,13 @@ Historia clínica:
    + Recibe datos de atenciones y diagnósticos de otros módulos
  - Sin UI
 
-Turnero:
+Turnero & backend general gobierno:
  - Core: Django + psql: Centros de salud, médicos, especialidad que se atienden, etc.
  - UI: Login con vecinos comunes (incluye creación de usuarios). 
 
 Recupero:
  - Core: Django + psql: Recibe atenciones médicas de otros módulos y emite documentos a firmar. Almacena y contabiliza facturas para obras sociales. Administra cobranzas y deudas con obras sociales. 
- - Si este módulo va por separado podrá adaptarse desde otros sistema de atención médica que ya existen.  
+ - Si este módulo va por separado **podrá adaptarse desde otros sistema de atención médica que ya existen**.
 
 Obras sociales:
  - Lista con pocos cambios de las obras sociales vigentes a nivel nacional. Tienen un código único (RNOS).  
