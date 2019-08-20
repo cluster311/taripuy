@@ -19,7 +19,7 @@ Obras sociales:
 
 Conexión a SISA/PUCO:
  - Sistema de información que dado un DNI entrega la obra social y datos de ReNaPer de una persona. Requiere credenciales.
- - Esto podría ser una librería python simple
+ - Esto **es una librería python simple**: https://github.com/cluster311/sisa + https://pypi.org/project/sisa/
  
 Otros:
  - Calendario de vacunación nacional: Una vez al año o en sitiaciones excepcionales se actualiza. 
