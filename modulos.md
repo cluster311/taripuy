@@ -15,7 +15,7 @@ Recupero:
  - Si este módulo va por separado **podrá adaptarse desde otros sistema de atención médica que ya existen**.
 
 Obras sociales:
- - Lista con pocos cambios de las obras sociales vigentes a nivel nacional. Tienen un código único (RNOS).  
+ - Lista con pocos cambios de las obras sociales vigentes a nivel nacional. Tienen un código único (RNOS). [Pypi](https://pypi.org/project/oss-ar/) + [GitHub](https://github.com/cluster311/obras-sociales-argentinas)
 
 Conexión a SISA/PUCO:
  - Sistema de información que dado un DNI entrega la obra social y datos de ReNaPer de una persona. Requiere credenciales.
